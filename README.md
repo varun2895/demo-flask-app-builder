@@ -1,4 +1,5 @@
 # demo-flask-app-builder
+Simple and rapid application development framework, built on top of Flask. It includes detailed security, auto CRUD generation for your models and google charts.
 
 ### Installation 
 pip install Flask-AppBuilder
