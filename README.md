@@ -19,7 +19,6 @@ flask run
 ### URL 
 http://127.0.0.1:5000/
 
-
 ## Pictures
 
 #### Login Page
@@ -30,7 +29,6 @@ http://127.0.0.1:5000/
 
 #### CRUD
 ![image](https://user-images.githubusercontent.com/39857587/162569657-6780859e-b32f-4110-ac90-546efe8f8c83.png)
-
 
 #### Charts
 Bar chart
